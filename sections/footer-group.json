@@ -45,10 +45,10 @@
           "type": "text",
           "settings": {
             "title": "Follow Us",
-            "image_heading": "shopify://shop_images/main-logo.svg",
+            "image_heading": "shopify://shop_images/Frame.svg",
             "image_heading_size": 105,
-            "content": "<p>Write a short statement about your brand.</p>",
-            "show_social_icons": true
+            "content": "",
+            "show_social_icons": false
           }
         },
         "menu_mijHcU": {
@@ -66,7 +66,7 @@
             "title": "Contact information",
             "image_heading_size": 40,
             "content": "<p>Show your local address to your customers.</p>",
-            "show_social_icons": false
+            "show_social_icons": true
           }
         },
         "newsletter_rxfrym": {
