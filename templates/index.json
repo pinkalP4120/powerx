@@ -905,6 +905,7 @@
         "grid_text_LYcGiw": {
           "type": "_grid-text",
           "settings": {
+            "image": "shopify://shop_images/5c11e21263414a0727aec4d5fad30b34.jpg",
             "link": "",
             "open_in_new_window": false,
             "alignment": "horizontal-left align-content--vertical-middle",
@@ -971,6 +972,7 @@
           "type": "_grid-media",
           "name": "t:theme_blocks.grid-media.name",
           "settings": {
+            "image": "shopify://shop_images/519db3bbaac733153a732279e7f1e476.jpg",
             "link": "",
             "open_in_new_window": false,
             "column_desktop": 6,
