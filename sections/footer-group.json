@@ -1,1 +1,75 @@
-{"name":"t:sections.footer.name","type":"footer","sections":{"footer":{"type":"footer","settings":{"color_scheme":"scheme-1","newsletter_enable":true,"newsletter_heading":"Subscribe to our emails","enable_follow_on_shop":true,"show_social":true,"enable_country_selector":true,"enable_language_selector":true,"payment_enable":true,"show_policy":true,"margin_top":0,"padding_top":36,"padding_bottom":36}}},"order":["footer"]}
+{
+  "type": "footer",
+  "name": "t:sections.refactor_words.labels.footer_group",
+  "sections": {
+    "70891002-5c86-4940-a47d-afc05e118d48": {
+      "type": "search",
+      "disabled": true,
+      "settings": {
+        "title": "",
+        "text": "",
+        "is_fullwidth": true,
+        "color_background_main": "#101010",
+        "color_text_main": "#f2efec",
+        "color_borders_main": "#ffffff",
+        "remove_margin": true,
+        "remove_bottom_margin": true,
+        "seo_h_tag": "h3"
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "text_MFWXjb": {
+          "type": "text",
+          "settings": {
+            "title": "",
+            "image_heading_size": 40,
+            "content": "<p>Write a short statement about your brand.</p>",
+            "show_social_icons": true
+          }
+        },
+        "menu_mijHcU": {
+          "type": "menu",
+          "settings": {
+            "title": "Quick links",
+            "menu": "footer",
+            "menu_target": false,
+            "menu_style": true
+          }
+        },
+        "text_JBVQYz": {
+          "type": "text",
+          "settings": {
+            "title": "Contact information",
+            "image_heading_size": 40,
+            "content": "<p>Show your local address to your customers.</p>",
+            "show_social_icons": false
+          }
+        },
+        "newsletter_rxfrym": {
+          "type": "newsletter",
+          "settings": {
+            "title": "Newsletter"
+          }
+        }
+      },
+      "block_order": [
+        "text_MFWXjb",
+        "menu_mijHcU",
+        "text_JBVQYz",
+        "newsletter_rxfrym"
+      ],
+      "settings": {
+        "layout": "grid-4 grid-portable-2 grid-lap-1",
+        "show_locale_selector": false,
+        "show_country_selector": true,
+        "seo_h_tag": "h2"
+      }
+    }
+  },
+  "order": [
+    "70891002-5c86-4940-a47d-afc05e118d48",
+    "footer"
+  ]
+}
