@@ -17,6 +17,7 @@
     "body_font_secondary": "sans-serif",
     "color_background_header": "#ffffff",
     "color_text_header": "#000336",
+    "color_background_main": "#FFFFFF",
     "color_background_main_secondary": "#f2f2f2",
     "color_text_main": "#000336",
     "color_background_footer": "#000336",

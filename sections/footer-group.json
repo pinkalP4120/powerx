@@ -45,7 +45,8 @@
           "type": "text",
           "settings": {
             "title": "Follow Us",
-            "image_heading_size": 40,
+            "image_heading": "shopify://shop_images/main-logo.svg",
+            "image_heading_size": 105,
             "content": "<p>Write a short statement about your brand.</p>",
             "show_social_icons": true
           }
