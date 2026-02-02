@@ -220,7 +220,7 @@
         "layout_mobile": "grid-palm-2",
         "style": "slider",
         "products_number": 8,
-        "collection": "",
+        "collection": "cap",
         "section_background_color": "rgba(0,0,0,0)",
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",

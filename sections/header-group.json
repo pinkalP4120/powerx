@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "header",
   "name": "t:sections.refactor_words.labels.header_group",
@@ -46,11 +55,12 @@
         "32834525-9b40-4301-ad3b-ccce0cacb12b"
       ],
       "settings": {
-        "logo_height": 30,
+        "logo_src": "shopify://shop_images/main-logo.svg",
+        "logo_height": 80,
         "logo_mobile_height": 30,
-        "style": "two-rows",
+        "style": "one-row",
         "menu_type": "classic",
-        "alignment": "left",
+        "alignment": "center",
         "label_style": "none",
         "sticky_header": true,
         "show_header_border_bottom": true,
