@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "type": "footer",
   "name": "t:sections.refactor_words.labels.footer_group",
@@ -20,10 +29,22 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "image_BaEzPJ": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "title": "Trust badge",
+            "image_border_radius": 0,
+            "constrain_image_width": false,
+            "max_width": 300,
+            "link": "",
+            "link_type": "_self"
+          }
+        },
         "text_MFWXjb": {
           "type": "text",
           "settings": {
-            "title": "",
+            "title": "Follow Us",
             "image_heading_size": 40,
             "content": "<p>Write a short statement about your brand.</p>",
             "show_social_icons": true
@@ -55,6 +76,7 @@
         }
       },
       "block_order": [
+        "image_BaEzPJ",
         "text_MFWXjb",
         "menu_mijHcU",
         "text_JBVQYz",
