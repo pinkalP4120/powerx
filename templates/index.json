@@ -235,6 +235,7 @@
         "card_WfpdWe": {
           "type": "_card",
           "settings": {
+            "image": "shopify://shop_images/1.png",
             "button_link": "",
             "open_in_new_window": false,
             "column_desktop": 7,
@@ -297,6 +298,7 @@
         "card_PLiM6R": {
           "type": "_card",
           "settings": {
+            "image": "shopify://shop_images/1_5de51ad2-8400-46f0-8868-dcca885d86a8.jpg",
             "button_link": "",
             "open_in_new_window": false,
             "column_desktop": 5,
@@ -359,6 +361,7 @@
         "card_aEAn9V": {
           "type": "_card",
           "settings": {
+            "image": "shopify://shop_images/ChrisCrossRoyalblueCottontshirtmen.jpg",
             "button_link": "",
             "open_in_new_window": false,
             "column_desktop": 5,
@@ -421,6 +424,7 @@
         "card_MiGwiR": {
           "type": "_card",
           "settings": {
+            "image": "shopify://shop_images/flatlay-of-jade-face-roller-laying-on-a-grey-stone.jpg",
             "button_link": "",
             "open_in_new_window": false,
             "column_desktop": 7,
@@ -517,37 +521,37 @@
         "collection_jjPnmm": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "book-mark"
           }
         },
         "collection_4w983Y": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "bottle"
           }
         },
         "collection_pwJ4bC": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "cap"
           }
         },
         "collection_gmWc7R": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "diary"
           }
         },
         "collection_HQ3ed8": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "card-holder-1"
           }
         },
         "collection_kNmenF": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "key-chain"
           }
         }
       },
@@ -620,6 +624,7 @@
         "166245749775e9bb81-2"
       ],
       "settings": {
+        "image": "shopify://shop_images/MD2.jpg",
         "video_controls": false,
         "image_position": "right",
         "height": "large",
@@ -689,33 +694,37 @@
         "template--17238267691326__b7761801-629d-44e7-861f-5c39bcca07a0-1677677855c36a94d4-0": {
           "type": "tab",
           "settings": {
-            "title": "Whirlpool motif",
+            "title": "2 in 1 Set",
             "caption": "",
-            "icon": "label"
+            "image": "shopify://shop_images/5c11e21263414a0727aec4d5fad30b34.jpg",
+            "icon": "giftbox"
           }
         },
         "template--17238267691326__b7761801-629d-44e7-861f-5c39bcca07a0-1677677855c36a94d4-1": {
           "type": "tab",
           "settings": {
-            "title": "Contemporary pieces",
+            "title": "4 in 1 Set",
             "caption": "",
-            "icon": "earth-globe"
+            "image": "shopify://shop_images/519db3bbaac733153a732279e7f1e476.jpg",
+            "icon": "giftbox"
           }
         },
         "6557eca8-9794-4e16-bd31-dd6d0e32e13e": {
           "type": "tab",
           "settings": {
-            "title": "Enduring qualities",
+            "title": "5 in 1 Set",
             "caption": "",
-            "icon": "appointment"
+            "image": "shopify://shop_images/9dd8b61f0e4b05c7c6451980f6c3b424.jpg",
+            "icon": "label"
           }
         },
         "template--17238267691326__b7761801-629d-44e7-861f-5c39bcca07a0-1677677855c36a94d4-2": {
           "type": "tab",
           "settings": {
-            "title": "Beautiful",
+            "title": "Card Holder",
             "caption": "",
-            "icon": "star"
+            "image": "shopify://shop_images/6c2a4745d8ca701edf99e3c4009c03e0.jpg",
+            "icon": "giftbox"
           }
         }
       },
