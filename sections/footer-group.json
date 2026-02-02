@@ -55,9 +55,9 @@
           "type": "menu",
           "settings": {
             "title": "Quick links",
-            "menu": "footer",
+            "menu": "footer-menu",
             "menu_target": false,
-            "menu_style": true
+            "menu_style": false
           }
         },
         "text_JBVQYz": {
