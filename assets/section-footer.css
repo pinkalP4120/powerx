@@ -34,7 +34,7 @@
 
 .footer-bottom > div {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 }
 @media screen and (max-width: 767px) {
   .footer-bottom > div {
