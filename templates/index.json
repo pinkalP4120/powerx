@@ -15,10 +15,10 @@
         "slide_image_drjbki": {
           "type": "_slide-image",
           "settings": {
-            "image": "shopify://shop_images/shipping-boxes-on-trolly-close-up.jpg",
+            "image": "shopify://shop_images/c238192eb82e795d2c769f585da23066.jpg",
             "link": "",
             "open_in_new_window": false,
-            "color_background_main": "#0000003d",
+            "color_background_main": "#00000072",
             "color_text_main": "#ffffff"
           },
           "blocks": {
@@ -35,7 +35,7 @@
             "heading_YNAj9a": {
               "type": "heading",
               "settings": {
-                "heading": "Elegant [br]Glassware",
+                "heading": "Wall Clock",
                 "title_size": "h1",
                 "line_height": "default",
                 "text_color": "rgba(0,0,0,0)",
@@ -76,7 +76,7 @@
             "image": "shopify://shop_images/1_bd759bd0-f5c1-4575-babb-b9e51ce20053.jpg",
             "link": "",
             "open_in_new_window": false,
-            "color_background_main": "#0000003d",
+            "color_background_main": "#00000083",
             "color_text_main": "#ffffff"
           },
           "blocks": {
@@ -93,7 +93,7 @@
             "heading_49aKXe": {
               "type": "heading",
               "settings": {
-                "heading": "Concrete [br]Planters Set",
+                "heading": "Cap",
                 "title_size": "h1",
                 "line_height": "default",
                 "text_color": "rgba(0,0,0,0)",
