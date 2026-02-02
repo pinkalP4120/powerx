@@ -715,7 +715,7 @@
             "title": "5 in 1 Set",
             "caption": "",
             "image": "shopify://shop_images/9dd8b61f0e4b05c7c6451980f6c3b424.jpg",
-            "icon": "label"
+            "icon": "giftbox"
           }
         },
         "template--17238267691326__b7761801-629d-44e7-861f-5c39bcca07a0-1677677855c36a94d4-2": {
@@ -762,6 +762,7 @@
         "grid_text_XMhPR6": {
           "type": "_grid-media",
           "settings": {
+            "image": "shopify://shop_images/1.jpg",
             "link": "",
             "open_in_new_window": false,
             "column_desktop": 12,
