@@ -256,9 +256,9 @@
     <span>
       {{ 'general.copyright' | t }} &copy; {{ 'now' | date: '%Y' }}
       <a href="{{ routes.root_url }}">{{ shop.name | escape }}</a>.
-      {%- if section.settings.show_locale_selector or section.settings.show_country_selector -%}
+      {% comment %} {%- if section.settings.show_locale_selector or section.settings.show_country_selector -%}
         <span class="powered-by-shopify">{{ powered_by_link }}</span>
-      {%- endif -%}
+      {%- endif -%} {% endcomment %}
     </span>
 
     {%- if section.settings.show_locale_selector == false and section.settings.show_country_selector == false -%}
