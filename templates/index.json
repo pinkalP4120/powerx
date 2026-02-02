@@ -1399,7 +1399,7 @@
         "is_fullwidth": true,
         "text_alignment": "horizontal-left",
         "spacing": 32,
-        "color_background_main": "#101010",
+        "color_background_main": "#000336",
         "color_text_main": "#f1f1f1",
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 5,
