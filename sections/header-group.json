@@ -102,7 +102,7 @@
       ],
       "settings": {
         "logo_src": "shopify://shop_images/main-logo.svg",
-        "logo_height": 100,
+        "logo_height": 150,
         "logo_mobile_height": 100,
         "style": "one-row",
         "menu_type": "classic",
