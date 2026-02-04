@@ -43,16 +43,10 @@
           "type": "home",
           "settings": {}
         },
-        "32834525-9b40-4301-ad3b-ccce0cacb12b": {
-          "type": "menu",
-          "settings": {
-            "linklist": "main-menu-1"
-          }
-        },
         "products_list_x3V4jW": {
           "type": "products-list",
           "settings": {
-            "title": "Products list",
+            "title": "Shop",
             "products": [
               "book-mark-1",
               "book-mark-2",
@@ -70,12 +64,41 @@
             "show_more_products_cta_label": "Best seller",
             "show_more_products_cta_url": "shopify://collections/all"
           }
+        },
+        "collections_list_yDwyn3": {
+          "type": "collections-list",
+          "settings": {
+            "title": "Categories",
+            "collections": [
+              "book-mark",
+              "mobile-stand",
+              "2-in-1-set",
+              "4-in-1-set",
+              "5-in-1-set",
+              "bottle",
+              "calender",
+              "cap",
+              "card-holder",
+              "card-holder-1",
+              "diary",
+              "diy-mandala"
+            ],
+            "show_more_collections_cta_label": "",
+            "show_more_collections_cta_url": "shopify://collections"
+          }
+        },
+        "32834525-9b40-4301-ad3b-ccce0cacb12b": {
+          "type": "menu",
+          "settings": {
+            "linklist": "main-menu-1"
+          }
         }
       },
       "block_order": [
         "7a8bb2ae-b8e1-45b2-80c7-2ee0aefb76cc",
-        "32834525-9b40-4301-ad3b-ccce0cacb12b",
-        "products_list_x3V4jW"
+        "products_list_x3V4jW",
+        "collections_list_yDwyn3",
+        "32834525-9b40-4301-ad3b-ccce0cacb12b"
       ],
       "settings": {
         "logo_src": "shopify://shop_images/main-logo.svg",
