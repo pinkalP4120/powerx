@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/c238192eb82e795d2c769f585da23066.jpg",
             "link": "",
             "open_in_new_window": false,
-            "color_background_main": "#00000072",
+            "color_background_main": "#00000073",
             "color_text_main": "#ffffff"
           },
           "blocks": {
@@ -76,7 +76,7 @@
             "image": "shopify://shop_images/1_bd759bd0-f5c1-4575-babb-b9e51ce20053.jpg",
             "link": "",
             "open_in_new_window": false,
-            "color_background_main": "#00000083",
+            "color_background_main": "#00000082",
             "color_text_main": "#ffffff"
           },
           "blocks": {
@@ -220,7 +220,7 @@
         "layout_mobile": "grid-palm-2",
         "style": "slider",
         "products_number": 8,
-        "collection": "cap",
+        "collection": "book-mark",
         "section_background_color": "rgba(0,0,0,0)",
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
