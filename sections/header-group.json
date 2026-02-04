@@ -61,7 +61,7 @@
               "mobile-stand-4",
               "mobile-stand-5"
             ],
-            "show_more_products_cta_label": "Best seller",
+            "show_more_products_cta_label": "View All",
             "show_more_products_cta_url": "shopify://collections/all"
           }
         },
@@ -83,7 +83,7 @@
               "diary",
               "diy-mandala"
             ],
-            "show_more_collections_cta_label": "",
+            "show_more_collections_cta_label": "View All",
             "show_more_collections_cta_url": "shopify://collections"
           }
         },
