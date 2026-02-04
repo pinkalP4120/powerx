@@ -493,7 +493,7 @@
       ],
       "name": "t:flex-cards.header",
       "settings": {
-        "heading": "Kit Up & Save",
+        "heading": "Shop By Collection",
         "subheading": "Up to <strong>50%</strong> discount on selected kits & bundles",
         "section_heading_size": "text-size--large",
         "section_heading_layout": "section-heading--left section-heading--one-row",
