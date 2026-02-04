@@ -668,6 +668,7 @@
         "d8b6932d-05a2-4638-950f-a9bba194d4c5",
         "4aca6c5f-2007-4198-a12f-787f0b852c89"
       ],
+      "disabled": true,
       "settings": {
         "heading": "Buy set of 3 and save 30%",
         "subheading": "",
@@ -676,7 +677,8 @@
         "products": [
           "carafe-1-2ltr",
           "glass-400ml",
-          "tray"
+          "tray",
+          "book-mark-1"
         ],
         "style": "primary",
         "style_color": "rgba(0,0,0,0)",
@@ -884,7 +886,7 @@
         "section_heading_layout": "section-heading--left section-heading--one-row",
         "cta_label": "",
         "cta_url": "",
-        "select_collection": "w-s-collection",
+        "select_collection": "book-mark",
         "collection_limit": 9,
         "select_products": [],
         "limit_bundles": false,
