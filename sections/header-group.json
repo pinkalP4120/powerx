@@ -48,11 +48,34 @@
           "settings": {
             "linklist": "main-menu-1"
           }
+        },
+        "products_list_x3V4jW": {
+          "type": "products-list",
+          "settings": {
+            "title": "Products list",
+            "products": [
+              "book-mark-1",
+              "book-mark-2",
+              "book-mark-3",
+              "book-mark-4",
+              "book-mark-5",
+              "book-mark-6",
+              "book-mark-7",
+              "mobile-stand-1",
+              "mobile-stand-2",
+              "mobile-stand-3",
+              "mobile-stand-4",
+              "mobile-stand-5"
+            ],
+            "show_more_products_cta_label": "Best seller",
+            "show_more_products_cta_url": "shopify://collections/all"
+          }
         }
       },
       "block_order": [
         "7a8bb2ae-b8e1-45b2-80c7-2ee0aefb76cc",
-        "32834525-9b40-4301-ad3b-ccce0cacb12b"
+        "32834525-9b40-4301-ad3b-ccce0cacb12b",
+        "products_list_x3V4jW"
       ],
       "settings": {
         "logo_src": "shopify://shop_images/main-logo.svg",
