@@ -863,6 +863,63 @@
         "remove_bottom_margin": false
       }
     },
+    "testimonials_i76ACm": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_eiw7RU": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "image": "shopify://shop_images/welcome-to-my-business.jpg"
+          }
+        },
+        "testimonial_TW8yHT": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>"
+          }
+        },
+        "testimonial_zUjgDX": {
+          "type": "testimonial",
+          "settings": {
+            "author_name": "Author",
+            "author_title": "Customer",
+            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_eiw7RU",
+        "testimonial_TW8yHT",
+        "testimonial_zUjgDX"
+      ],
+      "name": "t:sections.local-extra-words.sections.testimonials.name",
+      "settings": {
+        "heading": "Testimonials",
+        "subheading": "Show <strong>your clients'</strong> thoughts",
+        "section_heading_size": "text-size--regular",
+        "section_heading_layout": "section-heading--left section-heading--one-row",
+        "cta_label": "",
+        "cta_url": "",
+        "layout_mode": "slider",
+        "content_alignment": "left",
+        "color_background_main": "rgba(0,0,0,0)",
+        "color_text_main": "rgba(0,0,0,0)",
+        "color_borders_main": "rgba(0,0,0,0)",
+        "border_radius": 0,
+        "color_hide_borders": false,
+        "section_background_color": "rgba(0,0,0,0)",
+        "section_background_gradient": "",
+        "section_heading_color": "rgba(0,0,0,0)",
+        "gutter_decrease": false,
+        "remove_bottom_margin": false,
+        "seo_h_tag": "h2"
+      }
+    },
     "ced1e11a-463a-4bc1-be86-1019a24d5428": {
       "type": "products-bundle",
       "blocks": {
@@ -1423,6 +1480,7 @@
     "flex_grid_8cpRD4",
     "c934eaec-07f9-46d4-89eb-07666d06a7b1",
     "0e767bd4-7304-489f-b3eb-581a0c76b1a4",
+    "testimonials_i76ACm",
     "ced1e11a-463a-4bc1-be86-1019a24d5428",
     "flex_grid_rRyzJK",
     "flex_grid_Yxj7kw",
