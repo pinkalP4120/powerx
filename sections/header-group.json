@@ -119,6 +119,9 @@
         "32834525-9b40-4301-ad3b-ccce0cacb12b",
         "mega_menu_J8qBUE"
       ],
+      "custom_css": [
+        ".site-nav-container ul.link-list .card__image.product-item__image {display: none;}"
+      ],
       "settings": {
         "logo_src": "shopify://shop_images/main-logo.svg",
         "logo_height": 150,
