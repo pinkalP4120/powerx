@@ -45,6 +45,7 @@
         },
         "products_list_x3V4jW": {
           "type": "products-list",
+          "disabled": true,
           "settings": {
             "title": "Shop",
             "products": [
@@ -113,8 +114,8 @@
         "show_header_border_top": false,
         "hide_search": false,
         "hide_cart": false,
-        "custom_icon_select": "open-box",
-        "label_text": "Build a Kit",
+        "custom_icon_select": "no-icon",
+        "label_text": "",
         "custom_icon_link": "",
         "open_in_new_window": false,
         "header_absolute_homepage": true,
