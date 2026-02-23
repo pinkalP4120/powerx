@@ -45,7 +45,7 @@
           "type": "text",
           "settings": {
             "title": "Follow Us",
-            "image_heading": "shopify://shop_images/Frame.svg",
+            "image_heading": "shopify://shop_images/main-logo_1.png",
             "image_heading_size": 105,
             "content": "",
             "show_social_icons": false
