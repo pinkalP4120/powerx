@@ -90,8 +90,25 @@
         },
         "32834525-9b40-4301-ad3b-ccce0cacb12b": {
           "type": "menu",
+          "disabled": true,
           "settings": {
             "linklist": "main-menu-1"
+          }
+        },
+        "mega_menu_J8qBUE": {
+          "type": "mega-menu",
+          "disabled": true,
+          "settings": {
+            "title": "Mega menu",
+            "linklist": "main-menu-1",
+            "show_promotion_block_1": false,
+            "promotion_image_link_1": "",
+            "promotion_content_1": "<p>Lead customers to your best offers or great product stories.<br/><a href=\"#\">Learn more</a></p>",
+            "show_promotion_block_2": false,
+            "promotion_image_link_2": "",
+            "promotion_content_2": "<p>Lead customers to your best offers or great product stories.<br/><a href=\"#\">Learn more</a></p>",
+            "promotion_width": "fourth",
+            "image_border_radius": 0
           }
         }
       },
@@ -99,7 +116,8 @@
         "7a8bb2ae-b8e1-45b2-80c7-2ee0aefb76cc",
         "products_list_x3V4jW",
         "collections_list_yDwyn3",
-        "32834525-9b40-4301-ad3b-ccce0cacb12b"
+        "32834525-9b40-4301-ad3b-ccce0cacb12b",
+        "mega_menu_J8qBUE"
       ],
       "settings": {
         "logo_src": "shopify://shop_images/main-logo.svg",
