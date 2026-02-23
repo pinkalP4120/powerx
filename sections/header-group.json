@@ -110,6 +110,12 @@
             "promotion_width": "fourth",
             "image_border_radius": 0
           }
+        },
+        "menu_yThFfn": {
+          "type": "menu",
+          "settings": {
+            "linklist": "main-menu"
+          }
         }
       },
       "block_order": [
@@ -117,7 +123,8 @@
         "products_list_x3V4jW",
         "collections_list_yDwyn3",
         "32834525-9b40-4301-ad3b-ccce0cacb12b",
-        "mega_menu_J8qBUE"
+        "mega_menu_J8qBUE",
+        "menu_yThFfn"
       ],
       "custom_css": [
         ".site-nav-container ul.link-list .card__image.product-item__image {display: none;}"
