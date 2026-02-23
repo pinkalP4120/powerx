@@ -27,12 +27,12 @@
         "95532ce8-d90b-4117-9996-ae0c49cd02eb"
       ],
       "settings": {
-        "visibility": "no-homepage",
+        "visibility": "homepage",
         "show_locale_selector": false,
         "show_country_selector": true,
-        "show_social_icons": true,
-        "bar_bgcolor": "#000000",
-        "bar_txtcolor": "#d4d4d4",
+        "show_social_icons": false,
+        "bar_bgcolor": "#000336",
+        "bar_txtcolor": "#ffffff",
         "border_color": "rgba(0,0,0,0)"
       }
     },
