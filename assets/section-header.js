@@ -81,7 +81,7 @@ if ( typeof MainHeader !== 'function' ) {
 						return;	
 
 					if ( st > window.lhp ) {
-
+console.log("check Header UP");
 						if ( st == 0 && stickyHeader.classList.contains('show') ) {
 
 							stickyHeader.classList.remove('show');
