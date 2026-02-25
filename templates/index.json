@@ -869,26 +869,28 @@
         "testimonial_eiw7RU": {
           "type": "testimonial",
           "settings": {
-            "author_name": "Author",
-            "author_title": "Customer",
-            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>",
+            "author_name": "Sarah Johnson",
+            "author_title": "Verified Customer",
+            "quote": "<p>I absolutely love the quality and attention to detail. The product exceeded my expectations and arrived faster than expected. Customer service was responsive and helpful throughout the process. Highly recommended!</p>",
             "image": "shopify://shop_images/welcome-to-my-business.jpg"
           }
         },
         "testimonial_TW8yHT": {
           "type": "testimonial",
           "settings": {
-            "author_name": "Author",
-            "author_title": "Customer",
-            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>"
+            "author_name": "Michael Carter",
+            "author_title": "Repeat Customer",
+            "quote": "<p>I’ve ordered multiple times and every experience has been smooth and reliable. The designs are beautiful, and the quality is consistently excellent. This is now my go-to store.</p>",
+            "image": "shopify://shop_images/welcome-to-my-business.jpg"
           }
         },
         "testimonial_zUjgDX": {
           "type": "testimonial",
           "settings": {
-            "author_name": "Author",
-            "author_title": "Customer",
-            "quote": "<p>Add customer reviews and testimonials to showcase your store's happy customers.</p>"
+            "author_name": "Emily Rodriguez",
+            "author_title": "Happy Client",
+            "quote": "<p>From browsing to checkout, everything was seamless. The product looks even better in person. I’ve already received so many compliments — I’ll definitely be purchasing again!</p>",
+            "image": "shopify://shop_images/woman-poses-in-dark-room.jpg"
           }
         }
       },
@@ -907,7 +909,7 @@
         "cta_url": "",
         "layout_mode": "slider",
         "content_alignment": "left",
-        "color_background_main": "rgba(0,0,0,0)",
+        "color_background_main": "#ffffff",
         "color_text_main": "rgba(0,0,0,0)",
         "color_borders_main": "rgba(0,0,0,0)",
         "border_radius": 0,
