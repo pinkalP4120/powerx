@@ -127,7 +127,8 @@
         "menu_yThFfn"
       ],
       "custom_css": [
-        ".site-nav-container ul.link-list .card__image.product-item__image {display: none;}"
+        ".site-nav-container ul.link-list .card__image.product-item__image {display: none;}",
+        ".site-nav .product-item__image {display: none;}"
       ],
       "settings": {
         "logo_src": "shopify://shop_images/main-logo.svg",
