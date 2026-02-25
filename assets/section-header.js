@@ -81,7 +81,7 @@ if ( typeof MainHeader !== 'function' ) {
 						return;	
 
 					if ( st > window.lhp ) {
-					console.log("Header is down");
+					
 						if ( st == 0 && stickyHeader.classList.contains('show') ) {
 
 							stickyHeader.classList.remove('show');
