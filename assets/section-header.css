@@ -1231,5 +1231,5 @@ html[dir=ltr] .sticky-header {
 }
 
 .header-sticky-active .header__top, .header-sticky-active .header__bottom {
-    --header-logo: 80px !important;
+    --header-logo: 40px !important;
 }
