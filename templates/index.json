@@ -338,7 +338,7 @@
         "mobile_height": "100vh",
         "is_auto_height": false,
         "autorotate_enable": true,
-        "autorotate_interval": 7,
+        "autorotate_interval": 3,
         "is_fullwidth": true,
         "alignment": "horizontal-left align-content--vertical-bottom",
         "spacing": 18,
@@ -349,7 +349,7 @@
         "section_background_gradient": "",
         "section_heading_color": "rgba(0,0,0,0)",
         "remove_margin": false,
-        "disable_parallax": false
+        "disable_parallax": true
       }
     },
     "16624574747e3c27ed": {
