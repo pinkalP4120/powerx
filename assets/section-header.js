@@ -73,6 +73,7 @@ if ( typeof MainHeader !== 'function' ) {
 
 					if ( ( st <= 0 || ( window.innerWidth >= 1024 ? stickyHeaderDeskBound.getBoundingClientRect().top >= 0 : stickyHeaderMobileBound.getBoundingClientRect().top >= 0 ) ) && stickyHeader.classList.contains('show') ) {
 						stickyHeader.classList.remove('show');
+						console.log("Down 1");
 						return;
 					}
 
@@ -84,6 +85,7 @@ if ( typeof MainHeader !== 'function' ) {
 						if ( st == 0 && stickyHeader.classList.contains('show') ) {
 
 							stickyHeader.classList.remove('show');
+							console.log("Down 2");
 
 						} else if ( st <= lst && ! stickyHeader.classList.contains('show') ) {
 
