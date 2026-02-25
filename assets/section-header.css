@@ -1236,3 +1236,7 @@ html[dir=ltr] .sticky-header {
 .header-sticky-active .logo-img {
     height: 60px !important;
 }
+
+.site-nav .product-item__image {
+    display: none;
+}
