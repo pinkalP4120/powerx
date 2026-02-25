@@ -1220,3 +1220,16 @@ html[dir=ltr] .sticky-header {
     display: none;
   }
 }
+
+.header-sticky-active {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0);
+    transition: transform .2s linear;
+    box-shadow: 0 2px 10px 2px #0000000f;
+    border-bottom: none;
+}
+
+.header-sticky-active .header__top, .header-sticky-active .header__bottom {
+    --header-logo: 80px !important;
+}
