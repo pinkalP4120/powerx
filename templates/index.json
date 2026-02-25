@@ -138,11 +138,199 @@
             "empty_space_9w8b38",
             "button_rYV8cU"
           ]
+        },
+        "slide_image_7jnfqJ": {
+          "type": "_slide-image",
+          "settings": {
+            "image": "shopify://shop_images/c238192eb82e795d2c769f585da23066.jpg",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#00000073",
+            "color_text_main": "#ffffff"
+          },
+          "blocks": {
+            "caption_aywGpD": {
+              "type": "caption",
+              "settings": {
+                "caption": "<em>by</em> &Tradition",
+                "text_size": "text-size--large",
+                "text_background_color": "rgba(0,0,0,0)",
+                "text_color": "rgba(0,0,0,0)"
+              },
+              "blocks": {}
+            },
+            "heading_xEk3TG": {
+              "type": "heading",
+              "settings": {
+                "heading": "Wall Clock",
+                "title_size": "h1",
+                "line_height": "default",
+                "text_color": "rgba(0,0,0,0)",
+                "seo_h_tag": "h3"
+              },
+              "blocks": {}
+            },
+            "empty_space_eNd9bp": {
+              "type": "empty-space",
+              "name": "t:theme_blocks.empty-space.name",
+              "settings": {
+                "height": "0"
+              },
+              "blocks": {}
+            },
+            "button_gTg7Vq": {
+              "type": "button",
+              "settings": {
+                "button_label": "SHOP NOW",
+                "link": "",
+                "open_in_new_window": false,
+                "button_style": "solid",
+                "color_text_buttons": "rgba(0,0,0,0)"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "caption_aywGpD",
+            "heading_xEk3TG",
+            "empty_space_eNd9bp",
+            "button_gTg7Vq"
+          ]
+        },
+        "slide_image_8TwAUf": {
+          "type": "_slide-image",
+          "settings": {
+            "image": "shopify://shop_images/1_bd759bd0-f5c1-4575-babb-b9e51ce20053.jpg",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#00000082",
+            "color_text_main": "#ffffff"
+          },
+          "blocks": {
+            "star_rating_bXw78L": {
+              "type": "star-rating",
+              "name": "t:flex-cards.settings.star-rating.name",
+              "settings": {
+                "active_stars_shown": 100,
+                "caption": "100+ Five Star Reviews",
+                "star_color": "#ffcc00"
+              },
+              "blocks": {}
+            },
+            "heading_9xL48n": {
+              "type": "heading",
+              "settings": {
+                "heading": "Cap",
+                "title_size": "h1",
+                "line_height": "default",
+                "text_color": "rgba(0,0,0,0)",
+                "seo_h_tag": "h3"
+              },
+              "blocks": {}
+            },
+            "caption_KQ77VE": {
+              "type": "caption",
+              "settings": {
+                "caption": "In 4 sizes and a variety of pastel hues.",
+                "text_size": "text-size--large",
+                "text_background_color": "rgba(0,0,0,0)",
+                "text_color": "rgba(0,0,0,0)"
+              },
+              "blocks": {}
+            },
+            "empty_space_3c3dGk": {
+              "type": "empty-space",
+              "name": "t:theme_blocks.empty-space.name",
+              "settings": {
+                "height": "0"
+              },
+              "blocks": {}
+            },
+            "button_DBFirB": {
+              "type": "button",
+              "settings": {
+                "button_label": "SHOP NOW",
+                "link": "",
+                "open_in_new_window": false,
+                "button_style": "solid",
+                "color_text_buttons": "rgba(0,0,0,0)"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "star_rating_bXw78L",
+            "heading_9xL48n",
+            "caption_KQ77VE",
+            "empty_space_3c3dGk",
+            "button_DBFirB"
+          ]
+        },
+        "slide_image_4knVAU": {
+          "type": "_slide-image",
+          "settings": {
+            "image": "shopify://shop_images/c238192eb82e795d2c769f585da23066.jpg",
+            "link": "",
+            "open_in_new_window": false,
+            "color_background_main": "#00000073",
+            "color_text_main": "#ffffff"
+          },
+          "blocks": {
+            "caption_wGgECV": {
+              "type": "caption",
+              "settings": {
+                "caption": "<em>by</em> &Tradition",
+                "text_size": "text-size--large",
+                "text_background_color": "rgba(0,0,0,0)",
+                "text_color": "rgba(0,0,0,0)"
+              },
+              "blocks": {}
+            },
+            "heading_VpxknM": {
+              "type": "heading",
+              "settings": {
+                "heading": "Wall Clock",
+                "title_size": "h1",
+                "line_height": "default",
+                "text_color": "rgba(0,0,0,0)",
+                "seo_h_tag": "h3"
+              },
+              "blocks": {}
+            },
+            "empty_space_WxTKAt": {
+              "type": "empty-space",
+              "name": "t:theme_blocks.empty-space.name",
+              "settings": {
+                "height": "0"
+              },
+              "blocks": {}
+            },
+            "button_Vimydi": {
+              "type": "button",
+              "settings": {
+                "button_label": "SHOP NOW",
+                "link": "",
+                "open_in_new_window": false,
+                "button_style": "solid",
+                "color_text_buttons": "rgba(0,0,0,0)"
+              },
+              "blocks": {}
+            }
+          },
+          "block_order": [
+            "caption_wGgECV",
+            "heading_VpxknM",
+            "empty_space_WxTKAt",
+            "button_Vimydi"
+          ]
         }
       },
       "block_order": [
         "slide_image_drjbki",
-        "slide_image_CTCmLb"
+        "slide_image_CTCmLb",
+        "slide_image_7jnfqJ",
+        "slide_image_8TwAUf",
+        "slide_image_4knVAU"
       ],
       "name": "t:theme_blocks.sections.flex-slideshow.name",
       "settings": {
