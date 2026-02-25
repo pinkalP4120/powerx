@@ -488,7 +488,17 @@
       </style>
     {%- endif -%}
 
-    
+    <script>
+window.addEventListener("scroll", function() {
+  var header = document.querySelector(".sticky-header");
+
+  if (window.scrollY > 100) {
+    header.classList.add("header-sticky-active");
+  } else {
+    header.classList.remove("header-sticky-active");
+  }
+});
+</script>
   
   </body>
   </html>
