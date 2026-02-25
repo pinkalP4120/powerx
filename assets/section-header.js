@@ -81,7 +81,7 @@ if ( typeof MainHeader !== 'function' ) {
 						return;	
 
 					if ( st > window.lhp ) {
-console.log("check Header UP");
+					console.log("Header is down");
 						if ( st == 0 && stickyHeader.classList.contains('show') ) {
 
 							stickyHeader.classList.remove('show');
@@ -95,7 +95,7 @@ console.log("check Header UP");
 
 						} else if ( st > lst && stickyHeader.classList.contains('show') ) {
 							stickyHeader.classList.remove('show');
-							console.log("check Header Down");
+							console.log("Header is UP");
 						}
 
 					} 
