@@ -488,24 +488,7 @@
       </style>
     {%- endif -%}
 
-    <script>
-let lastScrollTop = 0;
-const header = document.querySelector('.sticky-header');
-
-window.addEventListener('scroll', function () {
-  let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-
-  if (scrollTop > lastScrollTop && scrollTop > 100) {
-    // Scrolling DOWN
-    header.classList.add('header-sticky-active');
-  } else {
-    // Scrolling UP
-    header.classList.remove('header-sticky-active');
-  }
-
-  lastScrollTop = scrollTop <= 0 ? 0 : scrollTop;
-});
-</script>
+    
   
   </body>
   </html>

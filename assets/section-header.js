@@ -89,9 +89,11 @@ if ( typeof MainHeader !== 'function' ) {
 
 							window.lhp = stickyHeader.offsetTop;
 							stickyHeader.classList.add('show');
+							console.log("check Header UP");
 
 						} else if ( st > lst && stickyHeader.classList.contains('show') ) {
 							stickyHeader.classList.remove('show');
+							console.log("check Header Down");
 						}
 
 					} 
